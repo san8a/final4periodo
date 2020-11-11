@@ -1,0 +1,338 @@
+.ci{
+	background-image: url(estrellas.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 12%;
+	top: 10%;
+
+}
+.sci{
+	font-size:100px;
+	position: relative;
+	left: 2%;
+	top: 160px;
+	font-family: 'Vampiro One', cursive;
+
+}
+.b1{
+ 	position: absolute;
+	top: 10px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #53C1C2;
+    border-radius: 60px;
+    border: 2px solid #53C1C2;
+}
+.b2{
+	position: absolute;
+	top: 150px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #53C1C2;
+    border-radius: 60px;
+    border: 2px solid #53C1C2;
+}
+.b3{
+	position: absolute;
+	top: 300px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #53C1C2;
+    border-radius: 60px;
+    border: 2px solid #53C1C2;
+}
+.b4{
+position: absolute;
+	top: 10px;
+	left: 120px;
+	width: 100px;
+	height: 100px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #53C1C2;
+    border-radius: 60px;
+    border: 2px solid #53C1C2;
+}
+.b5{
+position: absolute;
+	top: 300px;
+	left: 120px;
+	width: 100px;
+	height: 100px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #53C1C2;
+    border-radius: 60px;
+    border: 2px solid #53C1C2;
+}
+.b6{
+	position: absolute;
+	top: 500px;
+	left: 120px;
+	width: 100px;
+	height: 100px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #53C1C2;
+    border-radius: 60px;
+    border: 2px solid #53C1C2;
+    z-index: 30;
+}
+.cie1{
+	background-image: url(chicoes1.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 30%;
+	top: 10%;
+}
+.esce1{
+  
+ 	
+	background-repeat: no-repeat;
+	background-size: 500px;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 30%;
+	top: 10%;
+	animation-duration: 10s;
+	animation-name: es;
+	transition: 0s;
+
+
+}
+@keyframes es {
+  0%   {background: url(escena1u.gif);background-repeat: no-repeat;background-size: 600px;width: 400px;height: 400px;}
+ 
+ 
+}
+.cie2{
+	background-image: url(fo2.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 30%;
+	top: 10%;
+}
+.esce2{
+  
+ 	
+	background-repeat: no-repeat;
+	background-size: 500px;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 30%;
+	top: 10%;
+	animation-duration: 23s;
+	animation-name: es2;
+	transition: 0s;
+
+
+}
+@keyframes es2 {
+  0%   {background: url(es2.gif);background-repeat: no-repeat;background-size: 600px;width: 600px;height: 600px;}
+ 
+ 
+}
+.cie3{
+	background-image: url(fo3.png);
+	background-repeat: no-repeat;
+	background-size: 500px;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 30%;
+	top: 10%;
+}
+.esce3{
+  
+ 	
+	background-repeat: no-repeat;
+	background-size: 500px;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 30%;
+	top: 10%;
+	animation-duration: 30s;
+	animation-name: es3;
+	transition: 0s;
+
+
+}
+@keyframes es3 {
+  0%   {background: url(es3.gif);background-repeat: no-repeat;background-size: 600px;width: 600px;height: 600px;}
+ 
+ 
+}
+.cf1{
+
+	background-image: url(chico-unscreen.gif);
+	background-repeat: no-repeat;
+	background-size: 200%;
+	width: 300px;
+	height: 700px;
+	position: absolute;
+	left: 6%;
+	top: 0%;
+
+}
+.cf1s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 300px;
+	top: 0%;
+	border: 2px black solid;
+	font-family: 'Vampiro One', cursive;
+	color: white;
+
+}
+.cf2{
+
+	background-image: url(paymon-unscreen.gif);
+	background-repeat: no-repeat;
+	background-size: 150%;
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	left: 6%;
+	top: 45%;
+
+}
+.cf2s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 300px;
+	top: 50%;
+	border: 2px black solid;
+	font-family: 'Vampiro One', cursive;
+	color: white;
+
+}
+.cf3{
+
+	background-image: url(villano-unscreen.gif);
+	background-repeat: no-repeat;
+	background-size: 500px;
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	left: 6%;
+	top: 90%;
+
+}
+.cf3s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 400px;
+	top: 100%;
+	border: 2px black solid;
+	font-family: 'Vampiro One', cursive;
+	color: white;
+
+}
+.cf4{
+
+	background-image: url(v.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	left: 0%;
+	top: 150%;
+
+}
+.cf4s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 400px;
+	top: 200%;
+	border: 2px black solid;
+	font-family: 'Vampiro One', cursive;
+	color: white;
+
+}
+.cf5{
+
+	background-image: url(p.png);
+	background-repeat: no-repeat;
+	background-size: 500px;
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	left: 0%;
+	top: 220%;
+
+}
+.cf5s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 400px;
+	top: 250%;
+	border: 2px black solid;
+	font-family: 'Vampiro One', cursive;
+	color: white;
+
+}
